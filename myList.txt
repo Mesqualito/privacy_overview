@@ -21,6 +21,6 @@ Python3
 guestbook-backend
 DIExample
 SpringBatchXMLtoDB
-Generica-Webshop
-Generica-Scheduler
+G*-Webshop
+G*-Scheduler
 More-Datasources-with-Spring
