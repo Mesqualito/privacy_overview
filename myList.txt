@@ -20,3 +20,7 @@ G*-Webshop
 Python3
 guestbook-backend
 DIExample
+SpringBatchXMLtoDB
+Generica-Webshop
+Generica-Scheduler
+More-Datasources-with-Spring
