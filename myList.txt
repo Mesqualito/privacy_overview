@@ -25,3 +25,4 @@ G*-Webshop
 G*-Scheduler
 More-Datasources-with-Spring
 SyncTwoDatabases => SyncNAVDatabase
+ngBkHerstArtNrEncoder
