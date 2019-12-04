@@ -1,28 +1,28 @@
-Perl-Tutorial_1
-loginbot
-kampftaktik
-docker-proftpd
-groovy-learning
-python-scripts-archive
-docker-repository
-G*-landing-pages
-G*-LP-www.***.de
-pureftpd
-hateoas
-In28Minutes
-MVC-Grundlagen
-Java-Video-Kurs
-G*-Domainverwaltung
-Umreifungskopf
-hband
-Xetys-Band
-G*-Webshop
-Python3
-guestbook-backend
-DIExample
-SpringBatchXMLtoDB
-G*-Webshop
-G*-Scheduler
-More-Datasources-with-Spring
-SyncTwoDatabases => SyncNAVDatabase
-ngBkHerstArtNrEncoder
+Perl-Tutorial_1 (Perl)
+loginbot (Python)
+kampftaktik (Text)
+docker-proftpd (Config)
+groovy-learning (Groovy)
+python-scripts-archive (Python)
+docker-repository (Config)
+G*-landing-pages (HTML)
+G*-LP-www.***.de (JEE)
+pureftpd (Config)
+hateoas (Spring Boot-Web-JPA-H2)
+In28Minutes (Java)
+MVC-Grundlagen (Java)
+Java-Video-Kurs (Java)
+G*-Domainverwaltung (Java)
+Umreifungskopf (Spring framework)
+hband (JHipster - Spring, Angular)
+Xetys-Band (JHipster - Spring, Angular)
+G*-Webshop (JEE)
+Python3 (Python)
+guestbook-backend (Spring Boot)
+DIExample (Spring framework)
+SpringBatchXMLtoDB (Spring Batch)
+G*-Webshop (JEE)
+G*-Scheduler (JEE)
+More-Datasources-with-Spring (Spring)
+SyncTwoDatabases => SyncNAVDatabase (Spring Batch)
+ngBkHerstArtNrEncoder (Angular)
